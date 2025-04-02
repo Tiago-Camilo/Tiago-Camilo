@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago Camilo  
 
--  ↻ Estudando front-end
+-  ↻ 
 
 <div align="center">
   <a href="https://github.com/Tiago-Camilo">
